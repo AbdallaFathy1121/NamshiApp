@@ -1,0 +1,6 @@
+@Namshi.API_HostAddress = http://localhost:5278
+
+GET {{Namshi.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
